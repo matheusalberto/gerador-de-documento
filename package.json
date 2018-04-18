@@ -1,0 +1,21 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "docxtemplater": "^3.6.1",
+    "jquery": "^3.3.1",
+    "jszip": "^2.6.1",
+    "jszip-utils": "0.0.2",
+    "pako": {
+      "integrity": "sha512-lQe48YPsMJAig+yngZ87Lus+NF+3mtu7DVOBu6b/gHO1YpKwIj5AWjZ/TOS7i46HD/UixzWb1zeWDZfGZ3iYcg==",
+      "resolved": "https://registry.npmjs.org/pako/-/pako-1.0.6.tgz",
+      "version": "1.0.6"
+    },
+    "xmldom": {
+      "integrity": "sha1-1QH5ezvbQDr4757MIFcxh6rawOk=",
+      "resolved": "https://registry.npmjs.org/xmldom/-/xmldom-0.1.27.tgz",
+      "version": "0.1.27"
+    },
+    "xmlhttprequest": "^1.8.0"
+  }
+}
