@@ -6,7 +6,7 @@ var path = require('path');
 
 //Load the docx file as a binary
 var content = fs
-    .readFileSync(path.resolve(__dirname, 'template_doc_despachante.docx'), 'binary');
+    .readFileSync(path.resolve(__dirname, 'template.docx'), 'binary');
 
 var zip = new JSZip(content);
 
